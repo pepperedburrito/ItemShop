@@ -1,12 +1,12 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
+EID_KPopDance03, 3500
+CID_137_Athena_Commando_F_StreetBasketball, 2000
+EID_GrilledCheese_N31C9, 1500
 na
 na
 na
-na
-CID_027_Athena_Commando_F, 1200
-Pickaxe_ID_224_Butterfly, 500
-EID_KEagle, 500
-EID_Everytime, 700
-CID_356_Athena_Commando_F_Farmer, 800
-Glider_ID_118_Squishy, 300
+CID_546_Athena_Commando_F_TacticalRed, 1200
+Pickaxe_ID_739_SharpDresserDarkMale, 700
+Pickaxe_ID_739_SharpDresserDarkMale, 500
+Glider_ID_294_BelieverFemale, 500
+EID_ThighSlapper, 500
+EID_Showstopper, 800
